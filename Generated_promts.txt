@@ -1,0 +1,23 @@
+1. Basic Prompts:
+   - What are the eligibility requirements for gaining a referral bonus at Oracle?
+   - Can I submit an email referral for a candidate at Oracle?
+   - How long is my referral valid after submission at Oracle?
+   - Who can receive a referral bonus at Oracle, and who cannot?
+   - What should I include when submitting a referral through Taleo/Oracle Cloud Recruiting?
+   - Can I submit a candidate as my own referral if I received them from a hiring manager or another employee?
+
+2. Scenario-Based Prompts:
+   - I know a great candidate who has at least six months of work experience but is not currently active in the job market. Can I still refer him to Oracle for a potential position?
+   - I am a part-time employee at Level M5 and want to refer a candidate for an open position at Oracle. However, I am involved in the selection process for my referral. Am I eligible for a referral bonus?
+   - I work as a Human Resources employee level M3 and below at Oracle. Can I still receive a referral bonus if I provide direct support to the candidate that I refer?
+   - I am an Oracle Talent Acquisition employee (Professional and Executive). Am I eligible for a referral bonus if I transfer to a different department within two years?
+
+3. Complex Prompts:
+   - If I refer a candidate in Japan and the position is filled, will I receive the standard referral bonus or the lower one because it's a different country within my region? What about if the candidate has special language skills like Ireland and Spain?
+   - Can a manager level M6 and above at Oracle still earn a referral bonus if they do not involve themselves in the selection process for their referred candidate? Under what circumstances can this happen?
+   - If I have obligations to a former employer such as a non-solicitation or confidentiality clause, am I still eligible to receive a referral bonus at Oracle?
+
+4. Edge Cases:
+   - Can I earn a referral bonus for a candidate who is hired through a campus event? What if I met the candidate during a promotional event but did not attend the event as an employee of Oracle?
+   - If I am a manager and my referred candidate is hired within my direct line of reports, am I still eligible for a referral bonus? What if I am involved in the selection process but not directly managing the candidate's hiring process?
+   - Can I earn a referral bonus if I violate any obligations I may have to a former employer such as a non-solicitation or confidentiality clause, even if my referral meets all other eligibility requirements set forth in this policy?
